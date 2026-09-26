@@ -20,5 +20,3 @@ I have collaborated with [Lekai Qian](https://lekai-qian.github.io/) on several 
 <a href="https://scholar.google.com.hk/citations?user=6zW_rFQAAAAJ"><img src="assets/scholar.svg" alt="Google Scholar" height="30"></a>
 <a href="https://www.linkedin.com/in/haoyu-gu/"><img src="assets/linkedin.svg" alt="LinkedIn" height="30"></a>
 <a href="https://orcid.org/0009-0005-2597-0366"><img src="assets/orcid.svg" alt="ORCID" height="30"></a>
-
-✉️ For email, please use the **Email** button on my personal website.
