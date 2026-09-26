@@ -8,14 +8,17 @@ My research focuses on **generative AI and discrete representations of structure
 
 I have collaborated with [Lekai Qian](https://lekai-qian.github.io/) on several projects. At SCUT, I work on symbolic music generation under the guidance of [Prof. Qi Liu](https://drliuqi.github.io/) and on human–computer interaction under the guidance of [Prof. Zhanpeng Jin](https://scuthcc.top/index.php/home-2-2/). I have also received guidance from [Dr. Ziyu Wang](https://zzwaang.github.io/) at New York University on BEAT and [Assoc. Prof. Shuai Wang](https://shuaiwang-nju.github.io/) at Nanjing University on BeatEdit.
 
-## Selected work
+## 🎼 Selected work
 
 - **BeatEdit** — Symbolic music generation through explicit editing. [Paper](https://arxiv.org/abs/2607.11124) · [Code](https://github.com/Haoyu-Gu/BeatEdit-code)
 - **BEAT** — Beat-based music tokenization for streaming generation and real-time accompaniment. [Paper](https://arxiv.org/abs/2604.19532) · [Project](https://haoyu-gu.github.io/BEAT/) · [Code](https://github.com/Lekai-Qian/BEAT-code)
 - **Pianoroll-Event** — A discrete event-token representation connecting piano-rolls with autoregressive generation. [Paper](https://arxiv.org/abs/2601.19951) · [Project](https://haoyu-gu.github.io/PIANOROLL-EVENT/)
 
-## Find me
+## 🔗 Find me
 
-[Personal website](https://haoyu-gu.github.io/) · [Google Scholar](https://scholar.google.com.hk/citations?user=6zW_rFQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/haoyu-gu/) · [ORCID](https://orcid.org/0009-0005-2597-0366)
+<a href="https://haoyu-gu.github.io/"><img src="assets/website.svg" alt="Personal website" height="30"></a>
+<a href="https://scholar.google.com.hk/citations?user=6zW_rFQAAAAJ"><img src="assets/scholar.svg" alt="Google Scholar" height="30"></a>
+<a href="https://www.linkedin.com/in/haoyu-gu/"><img src="assets/linkedin.svg" alt="LinkedIn" height="30"></a>
+<a href="https://orcid.org/0009-0005-2597-0366"><img src="assets/orcid.svg" alt="ORCID" height="30"></a>
 
-For email, please use the **Email** button on my personal website.
+✉️ For email, please use the **Email** button on my personal website.
